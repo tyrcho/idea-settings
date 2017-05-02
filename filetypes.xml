@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="*" type="JavaScript" />
+      <mapping pattern="*.slides.html" type="Markdown" />
+      <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
+      <mapping ext="uml" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
