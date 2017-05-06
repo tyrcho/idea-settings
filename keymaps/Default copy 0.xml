@@ -1,0 +1,6 @@
+<keymap version="1" name="Default copy 0" parent="$default">
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+    <keyboard-shortcut first-keystroke="ctrl colon" />
+  </action>
+</keymap>
