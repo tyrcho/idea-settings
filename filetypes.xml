@@ -1,7 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="16">
-    <extensionMap>
-      <mapping pattern="*.slides.html" type="Markdown" />
-    </extensionMap>
-  </component>
-</application>
