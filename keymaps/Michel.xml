@@ -1,0 +1,21 @@
+<keymap version="1" name="Michel" parent="$default">
+  <action id="Back">
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="alt left" />
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+    <keyboard-shortcut first-keystroke="ctrl colon" />
+  </action>
+  <action id="Forward">
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="alt right" />
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="NextTab" />
+  <action id="PreviousTab" />
+  <action id="Scala.Sbt.StartShell">
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
+  </action>
+</keymap>
