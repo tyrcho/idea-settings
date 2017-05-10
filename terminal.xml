@@ -1,0 +1,5 @@
+<application>
+  <component name="TerminalOptionsProvider">
+    <option name="myShellPath" value=" cmd /k C:\wl-vagrant\cmder_mini\vendor\init.bat" />
+  </component>
+</application>
