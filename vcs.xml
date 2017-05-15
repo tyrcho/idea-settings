@@ -22,8 +22,12 @@
           <option name="url" value="https://tyrcho@gitlab.com/tyrcho/java-test.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/dreignier/cg-brutaltester" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="c:\dev\workspaces" />
+    <option name="cloneParentDir" value="H:\dev\CodinGame" />
   </component>
 </application>
