@@ -1,5 +1,10 @@
 <application>
   <component name="libraryTable">
+    <library name="Python 3.6.1 (C:\Users\tyrcho\AppData\Local\Programs\Python\Python36-32\python.exe) interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="scala-sdk-2.12.2" type="Scala">
       <properties>
         <option name="languageLevel" value="Scala_2_12" />
