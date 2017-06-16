@@ -1,5 +1,34 @@
 <application>
   <component name="libraryTable">
+    <library name="Python 2.7.9 (C:\dev\tools\Python27\python.exe) interpreter library">
+      <CLASSES>
+        <root url="file://C:/dev/tools/Python27/DLLs" />
+        <root url="file://C:/dev/tools/Python27/Lib" />
+        <root url="file://C:/dev/tools/Python27/Lib/lib-tk" />
+        <root url="file://C:/dev/tools/Python27" />
+        <root url="file://C:/dev/tools/Python27/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.IdeaIC2017.1/system/python_stubs/-350242520" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/dev/tools/Python27/DLLs" />
+        <root url="file://C:/dev/tools/Python27/Lib" />
+        <root url="file://C:/dev/tools/Python27/Lib/lib-tk" />
+        <root url="file://C:/dev/tools/Python27" />
+        <root url="file://C:/dev/tools/Python27/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.IdeaIC2017.1/system/python_stubs/-350242520" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
     <library name="Python 3.6.1 (C:\Users\tyrcho\AppData\Local\Programs\Python\Python36-32\python.exe) interpreter library">
       <CLASSES />
       <JAVADOC />
