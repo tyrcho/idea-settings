@@ -34,6 +34,10 @@
           <option name="url" value="http://gitlab.com" />
           <option name="userName" value="tyrcho" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.rotate-it.be/kris/trivia.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="H:\dev\" />
