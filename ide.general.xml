@@ -8,5 +8,6 @@
     <entry key="ide.firstStartup" value="false" />
     <entry key="SBT.system.in.process" value="true" />
     <entry key="debugger.watches.in.variables" value="false" />
+    <entry key="ide.tooltip.initialDelay" value="338" />
   </component>
 </application>
