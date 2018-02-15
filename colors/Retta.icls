@@ -1,4 +1,8 @@
 <scheme name="Retta" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="modified">2018-02-15T23:36:21</property>
+    <property name="rainbow Default language">true</property>
+  </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="CARET_COLOR" value="bbbbbb" />
@@ -531,6 +535,18 @@
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="FOREGROUND" value="f8e1aa" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT">
+      <value>
+        <option name="FOREGROUND" value="11007a" />
+        <option name="BACKGROUND" value="ededed" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
+      <value>
+        <option name="FOREGROUND" value="11007a" />
+        <option name="BACKGROUND" value="c0c0c0" />
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
