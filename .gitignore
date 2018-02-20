@@ -1,2 +1,7 @@
+#this needs to be copied to the file `.git/info/exclude` to work !!
+# cp .gitignore .git/info/exclude
+
 _windows/git.xml
+_windows/path.macros.xml
+_windows/applicationLibraries.xml
 proxy.settings.xml
