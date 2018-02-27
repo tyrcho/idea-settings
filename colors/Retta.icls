@@ -1,6 +1,6 @@
 <scheme name="Retta" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="modified">2018-02-15T23:36:21</property>
+    <property name="modified">2018-02-27T17:44:18</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
   <colors>
@@ -559,6 +559,11 @@
       <value>
         <option name="FOREGROUND" value="527d5d" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_ANNOTATION">
+      <value>
+        <option name="FOREGROUND" value="83786e" />
       </value>
     </option>
     <option name="LOG_ERROR_OUTPUT">
