@@ -54,6 +54,14 @@
           <option name="url" value="git@gitlab.kazan.priv.atos.fr:trainings/microservices.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:tyrcho/kotlin-spring-boot-demo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:sdeleuze/spring-kotlin-functional.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\dev\workspaces\" />
