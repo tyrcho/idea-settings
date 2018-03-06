@@ -71,6 +71,10 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
+          <option name="url" value="git@github.com:Illedan/BOTG-Refree.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
           <option name="url" value="git@gitlab.com:tyrcho/CodinGame-Scala-Kit.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
