@@ -70,6 +70,10 @@
           <option name="url" value="git@github.com:WriteThemFirst/GildedRoseApprovalDemo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.com:tyrcho/CodinGame-Scala-Kit.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\dev\workspaces\" />
