@@ -1,5 +1,7 @@
 <code_scheme name="Default" version="173">
   <JavaCodeStyleSettings>
+    <option name="GENERATE_FINAL_LOCALS" value="true" />
+    <option name="GENERATE_FINAL_PARAMETERS" value="true" />
     <option name="JD_P_AT_EMPTY_LINES" value="false" />
   </JavaCodeStyleSettings>
   <ScalaCodeStyleSettings>
