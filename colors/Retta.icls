@@ -1,6 +1,6 @@
 <scheme name="Retta" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="modified">2018-02-27T18:29:48</property>
+    <property name="modified">2018-03-15T15:49:48</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
   <colors>
@@ -515,7 +515,6 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="5e5c56" />
         <option name="ERROR_STRIPE_COLOR" value="5e5c56" />
       </value>
     </option>
@@ -683,7 +682,6 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="527d5d" />
         <option name="ERROR_STRIPE_COLOR" value="527d5d" />
       </value>
     </option>
