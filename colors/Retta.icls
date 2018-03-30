@@ -1,6 +1,6 @@
 <scheme name="Retta" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="modified">2018-03-29T21:41:18</property>
+    <property name="modified">2018-03-30T22:59:32</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
   <colors>
@@ -610,6 +610,18 @@
       <value>
         <option name="FOREGROUND" value="bfa4a4" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RUBY_LOCAL_VAR_ID">
+      <value>
+        <option name="FOREGROUND" value="39575a" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="RUBY_METHOD_NAME">
+      <value>
+        <option name="FOREGROUND" value="45a4ff" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
