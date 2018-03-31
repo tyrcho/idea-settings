@@ -2,6 +2,7 @@
   <component name="UISettings">
     <option name="COLOR_BLINDNESS" value="deuteranopia" />
     <option name="EDITOR_TAB_LIMIT" value="5" />
+    <option name="FONT_FACE" value="Cantarell Regular" />
     <option name="HIDE_TOOL_STRIPES" value="false" />
   </component>
 </application>
