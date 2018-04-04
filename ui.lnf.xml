@@ -3,5 +3,6 @@
     <option name="COLOR_BLINDNESS" value="deuteranopia" />
     <option name="EDITOR_TAB_LIMIT" value="5" />
     <option name="HIDE_TOOL_STRIPES" value="false" />
+    <option name="presentationMode" value="true" />
   </component>
 </application>
