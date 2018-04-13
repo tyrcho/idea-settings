@@ -6,6 +6,8 @@
 _windows/git.xml
 _windows/path.macros.xml
 _windows/applicationLibraries.xml
+_linux/applicationLibraries.xml
+_linux/path.macros.xml
 proxy.settings.xml
 vcs.xml
 terminal.xml
