@@ -77,6 +77,10 @@
   <action id="Scala.Sbt.StartShell">
     <keyboard-shortcut first-keystroke="shift ctrl s" />
   </action>
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
   <action id="ViewImportPopups">
     <keyboard-shortcut first-keystroke="shift ctrl alt o" />
   </action>
