@@ -35,6 +35,12 @@
     <keyboard-shortcut first-keystroke="ctrl divide" />
     <keyboard-shortcut first-keystroke="ctrl colon" />
   </action>
+  <action id="Console.Execute" />
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
+  <action id="DirDiffMenu.SynchronizeDiff" />
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="meta c" />
   </action>
@@ -54,10 +60,10 @@
     <keyboard-shortcut first-keystroke="meta z" />
   </action>
   <action id="EditorCloneCaretAbove">
-    <keyboard-shortcut first-keystroke="shift meta up" />
+    <keyboard-shortcut first-keystroke="meta up" />
   </action>
   <action id="EditorCloneCaretBelow">
-    <keyboard-shortcut first-keystroke="shift meta down" />
+    <keyboard-shortcut first-keystroke="meta down" />
   </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl y" />
@@ -71,9 +77,14 @@
     <keyboard-shortcut first-keystroke="alt right" />
     <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
+  <action id="Images.Thumbnails.EnterAction" />
   <action id="MarkdownNavigator.ListUnIndent" />
   <action id="NextTab" />
+  <action id="NextTemplateVariable">
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
   <action id="PreviousTab" />
+  <action id="PropertyInspectorActions.EditValue" />
   <action id="Scala.Sbt.StartShell">
     <keyboard-shortcut first-keystroke="shift ctrl s" />
   </action>
