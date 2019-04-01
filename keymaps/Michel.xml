@@ -64,12 +64,18 @@
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="meta down" />
   </action>
+  <action id="EditorDecreaseFontSize">
+    <mouse-shortcut keystroke="control button142" />
+  </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl y" />
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <mouse-shortcut keystroke="control button143" />
   </action>
   <action id="Forward">
     <mouse-shortcut keystroke="button5" />
