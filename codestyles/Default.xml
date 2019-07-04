@@ -10,6 +10,7 @@
   <ScalaCodeStyleSettings>
     <option name="alwaysUsedImports">
       <array>
+        <option value="$file.ConfigDev" />
         <option value="hashcode.qualification.json.MapJson._" />
       </array>
     </option>
