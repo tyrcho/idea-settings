@@ -2,24 +2,15 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.dyn_hi;*.dyn_o;*.hi;*.hprof;*.o;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping ext="trg" type="DBN-PSQL" />
-      <mapping ext="pks" type="DBN-PSQL" />
-      <mapping ext="prc" type="DBN-PSQL" />
-      <mapping ext="fnc" type="DBN-PSQL" />
-      <mapping ext="tps" type="DBN-PSQL" />
-      <mapping ext="tpe" type="DBN-PSQL" />
-      <mapping ext="tpb" type="DBN-PSQL" />
-      <mapping ext="pkg" type="DBN-PSQL" />
-      <mapping ext="pkb" type="DBN-PSQL" />
-      <mapping ext="vw" type="DBN-SQL" />
+      <mapping pattern=".releaserc" type="JSON" />
       <mapping pattern="extract_arg" type="PLAIN_TEXT" />
-      <mapping pattern="gatling" type="PLAIN_TEXT" />
       <mapping pattern="userdata" type="PLAIN_TEXT" />
-      <mapping ext="approved" type="PLAIN_TEXT" />
+      <mapping pattern="gatling" type="PLAIN_TEXT" />
       <mapping ext="received" type="PLAIN_TEXT" />
-      <mapping ext="out" type="PLAIN_TEXT" />
-      <mapping ext="appcache" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
+      <mapping ext="approved" type="PLAIN_TEXT" />
+      <mapping ext="appcache" type="PLAIN_TEXT" />
+      <mapping ext="out" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
