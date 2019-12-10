@@ -18,6 +18,7 @@
       <mapping pattern="test/scala/Demo.scala" type="Scala" />
       <mapping pattern="src/main/scala/com/github/writethemfirst/Approbation" type="Scala" />
       <mapping pattern="Approbation" type="Scala" />
+      <mapping pattern="describe_version" type="Shell Script" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cfg" approved="true" type="PLAIN_TEXT" />
