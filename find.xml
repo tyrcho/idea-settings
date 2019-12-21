@@ -15,5 +15,6 @@
     <mask>*.sbt</mask>
     <mask>*.approved</mask>
     <mask>*.scala</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
