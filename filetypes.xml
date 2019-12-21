@@ -15,6 +15,9 @@
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern="src/main/scala/com/github/writethemfirst/Approbation" type="Scala" />
+      <mapping pattern="test/scala/Demo.scala" type="Scala" />
+      <mapping pattern="Approbation" type="Scala" />
       <mapping pattern="reveal" type="Shell Script" />
       <mapping pattern="describe_version" type="Shell Script" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
@@ -26,9 +29,6 @@
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <mapping pattern=".gitignore_global" type="Git file" />
-      <mapping pattern="Approbation" type="Scala" />
-      <mapping pattern="src/main/scala/com/github/writethemfirst/Approbation" type="Scala" />
-      <mapping pattern="test/scala/Demo.scala" type="Scala" />
     </extensionMap>
   </component>
 </application>
