@@ -7,6 +7,7 @@
       <mapping pattern="extract_arg" type="PLAIN_TEXT" />
       <mapping pattern="userdata" type="PLAIN_TEXT" />
       <mapping pattern="gatling" type="PLAIN_TEXT" />
+      <mapping pattern="configure_kubectl_for" type="PLAIN_TEXT" />
       <mapping pattern="release" type="PLAIN_TEXT" />
       <mapping ext="approved" type="PLAIN_TEXT" />
       <mapping ext="received" type="PLAIN_TEXT" />
