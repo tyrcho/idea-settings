@@ -7,8 +7,8 @@
       <mapping pattern="extract_arg" type="PLAIN_TEXT" />
       <mapping pattern="userdata" type="PLAIN_TEXT" />
       <mapping pattern="gatling" type="PLAIN_TEXT" />
-      <mapping pattern="release" type="PLAIN_TEXT" />
       <mapping pattern="configure_kubectl_for" type="PLAIN_TEXT" />
+      <mapping pattern="release" type="PLAIN_TEXT" />
       <mapping ext="received" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="approved" type="PLAIN_TEXT" />
@@ -20,8 +20,8 @@
       <mapping pattern="test/scala/Demo.scala" type="Scala" />
       <mapping pattern="src/main/scala/com/github/writethemfirst/Approbation" type="Scala" />
       <mapping pattern="Approbation" type="Scala" />
-      <mapping pattern="reveal" type="Shell Script" />
       <mapping pattern="describe_version" type="Shell Script" />
+      <mapping pattern="reveal" type="Shell Script" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cfg" approved="true" type="PLAIN_TEXT" />
