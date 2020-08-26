@@ -12,9 +12,9 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.sbt</mask>
     <mask>*.approved</mask>
     <mask>*.yml</mask>
     <mask>*.scala</mask>
+    <mask>*.sbt</mask>
   </component>
 </application>
