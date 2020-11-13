@@ -24,6 +24,7 @@
       <mapping pattern="test/scala/Demo.scala" type="Scala" />
       <mapping pattern="describe_version" type="Shell Script" />
       <mapping pattern="reveal" type="Shell Script" />
+      <mapping ext="tfstate" type="Terraform" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cfg" approved="true" type="PLAIN_TEXT" />
