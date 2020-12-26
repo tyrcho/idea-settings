@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="18">
+  <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.dyn_hi;*.dyn_o;*.hi;*.o;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern=".releaserc" type="JSON" />
@@ -16,22 +16,25 @@
       <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="approved" type="PLAIN_TEXT" />
       <mapping ext="appcache" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="src/main/scala/com/github/writethemfirst/Approbation" type="Scala" />
       <mapping pattern="Approbation" type="Scala" />
       <mapping pattern="test/scala/Demo.scala" type="Scala" />
       <mapping pattern="describe_version" type="Shell Script" />
       <mapping pattern="reveal" type="Shell Script" />
-      <mapping ext="tfstate" type="Terraform" />
-      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cfg" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="makefile" approved="true" type="textmate" />
-      <removed_mapping ext="psd" approved="true" type="Image" />
-      <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping pattern=".gitattributes" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <mapping ext="tfstate" type="Terraform" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
