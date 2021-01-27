@@ -119,11 +119,28 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.cmt">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="reasonml" />
+              <option name="myPluginName" value="ReasonML" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.conf">
           <value>
             <plugin>
               <option name="myPluginId" value="org.jetbrains.plugins.hocon" />
               <option name="myPluginName" value="HOCON" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.config">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Lombook Plugin" />
+              <option name="myPluginName" value="Lombok" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -158,7 +175,6 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -195,6 +211,14 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.dockerfile">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Docker" />
+              <option name="myPluginName" value="Docker" />
             </plugin>
           </value>
         </entry>
@@ -249,6 +273,14 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.feature">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="gherkin" />
+              <option name="myPluginName" value="Gherkin" />
             </plugin>
           </value>
         </entry>
@@ -404,6 +436,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.ijperf">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.performancePlugin" />
+              <option name="myPluginName" value="Performance Testing" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.iml">
           <value>
             <plugin>
@@ -526,7 +566,6 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -544,7 +583,6 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -553,7 +591,6 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -562,7 +599,6 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -571,7 +607,6 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -580,7 +615,6 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -589,7 +623,6 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -635,6 +668,54 @@
               <option name="myPluginId" value="com.intellij.java" />
               <option name="myPluginName" value="Java" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.ml">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="reasonml" />
+              <option name="myPluginName" value="ReasonML" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.ml4">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="reasonml" />
+              <option name="myPluginName" value="ReasonML" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.mlg">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="reasonml" />
+              <option name="myPluginName" value="ReasonML" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.mli">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="reasonml" />
+              <option name="myPluginName" value="ReasonML" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.mll">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="reasonml" />
+              <option name="myPluginName" value="ReasonML" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.mly">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="reasonml" />
+              <option name="myPluginName" value="ReasonML" />
             </plugin>
           </value>
         </entry>
@@ -816,12 +897,44 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.re">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="reasonml" />
+              <option name="myPluginName" value="ReasonML" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.regexp">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.rei">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="reasonml" />
+              <option name="myPluginName" value="ReasonML" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.res">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="reasonml" />
+              <option name="myPluginName" value="ReasonML" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.resi">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="reasonml" />
+              <option name="myPluginName" value="ReasonML" />
             </plugin>
           </value>
         </entry>
@@ -855,9 +968,8 @@
         <entry key="*.rs">
           <value>
             <plugin>
-              <option name="myPluginId" value="org.jetbrains.android" />
-              <option name="myPluginName" value="Android" />
-              <option name="myBundled" value="true" />
+              <option name="myPluginId" value="org.rust.lang" />
+              <option name="myPluginName" value="Rust" />
             </plugin>
           </value>
         </entry>
@@ -1055,6 +1167,14 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.toml">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.toml.lang" />
+              <option name="myPluginName" value="Toml" />
             </plugin>
           </value>
         </entry>
@@ -1282,6 +1402,94 @@
             </plugin>
           </value>
         </entry>
+        <entry key="Cargo.lock">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.toml.lang" />
+              <option name="myPluginName" value="Toml" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="Dockerfile">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Docker" />
+              <option name="myPluginName" value="Docker" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="Dockerfile.fast-jar">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Docker" />
+              <option name="myPluginName" value="Docker" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="Dockerfile.jlink">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Docker" />
+              <option name="myPluginName" value="Docker" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="Dockerfile.jvm">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Docker" />
+              <option name="myPluginName" value="Docker" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="Dockerfile.native">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Docker" />
+              <option name="myPluginName" value="Docker" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="Gopkg.lock">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.toml.lang" />
+              <option name="myPluginName" value="Toml" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="Pipfile">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.toml.lang" />
+              <option name="myPluginName" value="Toml" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="bsconfig.json">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="reasonml" />
+              <option name="myPluginName" value="ReasonML" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="dune">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="reasonml" />
+              <option name="myPluginName" value="ReasonML" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="dune-project">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="reasonml" />
+              <option name="myPluginName" value="ReasonML" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="exclude">
           <value>
             <plugin>
@@ -1291,11 +1499,28 @@
             </plugin>
           </value>
         </entry>
+        <entry key="jbuild">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="reasonml" />
+              <option name="myPluginName" value="ReasonML" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="logback.groovy">
           <value>
             <plugin>
               <option name="myPluginId" value="org.intellij.groovy" />
               <option name="myPluginName" value="Groovy" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="lombok.config">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Lombook Plugin" />
+              <option name="myPluginName" value="Lombok" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1391,6 +1616,11 @@
                       <FeaturePluginData displayName="BSP test" pluginName="Scala" pluginId="org.intellij.scala" />
                     </value>
                   </entry>
+                  <entry key="CargoCommandRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Cargo" pluginName="Rust" pluginId="org.rust.lang" />
+                    </value>
+                  </entry>
                   <entry key="CompoundRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Compound" pluginName="IDEA CORE" pluginId="com.intellij" />
@@ -1441,6 +1671,11 @@
                       <FeaturePluginData displayName="Maven" pluginName="Maven" pluginId="org.jetbrains.idea.maven" />
                     </value>
                   </entry>
+                  <entry key="OCAML_RUN_CONFIGURATION">
+                    <value>
+                      <FeaturePluginData displayName="OCaml REPL" pluginName="reasonml" pluginId="reasonml" />
+                    </value>
+                  </entry>
                   <entry key="Remote">
                     <value>
                       <FeaturePluginData displayName="Remote JVM Debug" pluginName="Java" pluginId="com.intellij.java" />
@@ -1474,6 +1709,16 @@
                   <entry key="Specs2RunConfiguration">
                     <value>
                       <FeaturePluginData displayName="Specs2" pluginName="Scala" pluginId="org.intellij.scala" />
+                    </value>
+                  </entry>
+                  <entry key="WasmPackCommandRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="wasm-pack" pluginName="Rust" pluginId="org.rust.lang" />
+                    </value>
+                  </entry>
+                  <entry key="docker-deploy">
+                    <value>
+                      <FeaturePluginData displayName="Docker" pluginName="IDEA CORE" pluginId="com.intellij" />
                     </value>
                   </entry>
                   <entry key="uTestRunConfiguration">
@@ -1519,6 +1764,11 @@
                   <entry key="native-android-gradle">
                     <value>
                       <FeaturePluginData displayName="Native-Android-Gradle" pluginName="Android" pluginId="org.jetbrains.android" />
+                    </value>
+                  </entry>
+                  <entry key="ocaml-dune">
+                    <value>
+                      <FeaturePluginData displayName="Dune" pluginName="reasonml" pluginId="reasonml" />
                     </value>
                   </entry>
                 </map>
