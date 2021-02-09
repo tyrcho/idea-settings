@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scala" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -18,10 +19,10 @@
     <mask>*.mxml</mask>
     <mask>*.approved</mask>
     <mask>*.yml</mask>
-    <mask>*.scala</mask>
     <mask>*.sbt</mask>
     <mask>*yaml</mask>
     <mask>*yml</mask>
     <mask>*.rb</mask>
+    <mask>*.scala</mask>
   </component>
 </application>
