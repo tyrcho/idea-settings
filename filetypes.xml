@@ -4,14 +4,15 @@
     <extensionMap>
       <mapping pattern="startArchiveJob" type="AUTO_DETECTED" />
       <mapping pattern=".releaserc" type="JSON" />
+      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="configure_kubectl_for" type="PLAIN_TEXT" />
       <mapping pattern="userdata" type="PLAIN_TEXT" />
       <mapping pattern="extract_arg" type="PLAIN_TEXT" />
       <mapping pattern="gatling" type="PLAIN_TEXT" />
-      <mapping pattern="release" type="PLAIN_TEXT" />
       <mapping pattern=".sbtopts" type="PLAIN_TEXT" />
+      <mapping pattern="release" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="received" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
@@ -22,7 +23,6 @@
       <mapping pattern="test/scala/Demo.scala" type="Scala" />
       <mapping pattern="describe_version" type="Shell Script" />
       <mapping pattern="reveal" type="Shell Script" />
-      <mapping ext="tfstate" type="Terraform" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cfg" approved="true" type="PLAIN_TEXT" />
@@ -34,6 +34,7 @@
       <removed_mapping ext="rs" approved="true" type="Android RenderScript" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping pattern=".gitattributes" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="tfstate" type="Terraform" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
