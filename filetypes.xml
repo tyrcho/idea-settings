@@ -12,6 +12,7 @@
       <mapping pattern="extract_arg" type="PLAIN_TEXT" />
       <mapping pattern="gatling" type="PLAIN_TEXT" />
       <mapping pattern="release" type="PLAIN_TEXT" />
+      <mapping pattern=".jvmopts" type="PLAIN_TEXT" />
       <mapping pattern=".sbtopts" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="received" type="PLAIN_TEXT" />
