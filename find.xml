@@ -19,7 +19,7 @@
     <mask>*.sbt</mask>
     <mask>*yaml</mask>
     <mask>*yml</mask>
-    <mask>*.rb</mask>
     <mask>*.scala</mask>
+    <mask>*.rb</mask>
   </component>
 </application>
