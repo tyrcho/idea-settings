@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scala" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -19,7 +20,7 @@
     <mask>*.sbt</mask>
     <mask>*yaml</mask>
     <mask>*yml</mask>
-    <mask>*.scala</mask>
     <mask>*.rb</mask>
+    <mask>*.scala</mask>
   </component>
 </application>
