@@ -1,9 +1,9 @@
 <application>
   <component name="ScalaSettings">
     <option name="SHOW_TYPE_TOOLTIP_ON_MOUSE_HOVER" value="true" />
+    <option name="SHOW_TYPE_TOOLTIP_DELAY" value="250" />
     <option name="COMPILE_SERVER_PORT" value="59658" />
     <option name="COMPILE_SERVER_ID" value="3a389c6a-49d3-49e0-a5e3-469241c21980" />
-    <option name="USE_DEFAULT_SDK" value="false" />
-    <option name="COMPILE_SERVER_SDK" value="14" />
+    <option name="COMPILE_SERVER_SDK" value="Project Default" />
   </component>
 </application>
