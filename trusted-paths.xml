@@ -4,6 +4,7 @@
       <list>
         <option value="$USER_HOME$/git/colisweb" />
         <option value="$USER_HOME$/git/katas" />
+        <option value="$USER_HOME$/git" />
       </list>
     </option>
   </component>
