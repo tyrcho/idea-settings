@@ -27,20 +27,32 @@
       <mapping pattern="reveal" type="Shell Script" />
       <mapping pattern="describe_version" type="Shell Script" />
       <mapping ext="bats" type="Shell Script" />
+      <mapping ext="tfstate" type="Terraform" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cfg" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cfg" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="rs" approved="true" type="Android RenderScript" />
       <removed_mapping ext="rs" approved="true" type="Android RenderScript" />
       <removed_mapping ext="scala" approved="true" type="Scala" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping pattern=".gitattributes" approved="true" type="PLAIN_TEXT" />
-      <mapping ext="tfstate" type="Terraform" />
+      <removed_mapping pattern=".gitattributes" approved="true" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
