@@ -21,6 +21,7 @@
       <mapping ext="scala" type="PLAIN_TEXT" />
       <mapping ext="approved" type="PLAIN_TEXT" />
       <mapping ext="appcache" type="PLAIN_TEXT" />
+      <mapping ext="plantuml" type="PlantUML file" />
       <mapping pattern="test/scala/Demo.scala" type="Scala" />
       <mapping pattern="Approbation" type="Scala" />
       <mapping pattern="src/main/scala/com/github/writethemfirst/Approbation" type="Scala" />
