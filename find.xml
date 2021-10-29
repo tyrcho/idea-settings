@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File '…/domain/src/test/scala/com/colisweb/mario/domain/job/JobRepositoryBehaviors.scala [mario-domain]'" />
+    <option name="defaultScopeName" value="File '…/domain/src/test/scala/com/colisweb/mario/domain/job/JobRepositoryBehaviors.scala [mario-domain]'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File '…/domain/src/test/scala/com/colisweb/mario/domain/job/JobRepositoryBehaviors.scala [mario-domain]'" />
     <option name="FILE_MASK" value="*.scala" />
     <mask>*.js</mask>
     <mask>*.as</mask>
