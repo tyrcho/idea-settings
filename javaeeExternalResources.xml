@@ -1,0 +1,5 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="../../deliveryxml.xsd" location="$USER_HOME$/git/colisweb/ikea/domain/src/test/resources/xml/deliveryxml.xsd" />
+  </component>
+</application>
