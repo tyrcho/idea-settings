@@ -7,12 +7,12 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sbt" />
     <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.approved</mask>
     <mask>*.yml</mask>
-    <mask>*.sbt</mask>
     <mask>*yaml</mask>
     <mask>*yml</mask>
     <mask>*.rb</mask>
@@ -23,5 +23,6 @@
     <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*.scala</mask>
+    <mask>*.sbt</mask>
   </component>
 </application>
