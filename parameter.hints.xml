@@ -2,5 +2,8 @@
   <component name="ParameterNameHintsSettings">
     <option id="scala.apply.update.hint" value="true" />
     <option id="scala.references.names.hint" value="true" />
+    <disabledLanguages>
+      <language id="Scala" />
+    </disabledLanguages>
   </component>
 </application>
