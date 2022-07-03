@@ -1,5 +1,6 @@
 <code_scheme name="Default" version="173">
   <option name="LINE_SEPARATOR" value="&#10;" />
+  <option name="ENABLE_SECOND_REFORMAT" value="true" />
   <DBN-PSQL>
     <case-options enabled="true">
       <option name="KEYWORD_CASE" value="lower" />
@@ -42,6 +43,7 @@
     </option>
   </ScalaCodeStyleSettings>
   <codeStyleSettings language="JAVA">
+    <option name="RIGHT_MARGIN" value="80" />
     <option name="WRAP_COMMENTS" value="true" />
   </codeStyleSettings>
 </code_scheme>
