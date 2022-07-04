@@ -25,14 +25,12 @@
       <mapping ext="scala" type="PLAIN_TEXT" />
       <mapping ext="approved" type="PLAIN_TEXT" />
       <mapping ext="appcache" type="PLAIN_TEXT" />
-      <mapping ext="plantuml" type="PlantUML file" />
       <mapping pattern="test/scala/Demo.scala" type="Scala" />
       <mapping pattern="Approbation" type="Scala" />
       <mapping pattern="src/main/scala/com/github/writethemfirst/Approbation" type="Scala" />
       <mapping pattern="reveal" type="Shell Script" />
       <mapping pattern="describe_version" type="Shell Script" />
       <mapping ext="bats" type="Shell Script" />
-      <mapping ext="tfstate" type="Terraform" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cfg" approved="true" type="PLAIN_TEXT" />
@@ -46,6 +44,8 @@
       <removed_mapping ext="scala" approved="true" type="Scala" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping pattern=".gitattributes" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="plantuml" type="PlantUML file" />
+      <mapping ext="tfstate" type="Terraform" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
